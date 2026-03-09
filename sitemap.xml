@@ -1,19 +1,8 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>抽選カレンダー | ポケモンカード速報</title>
-  <meta name="description" content="ポケモンカードの抽選開始日・締切日・結果発表日を一覧で確認できるカレンダーページ。" />
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <main class="container page card">
-    <p><a href="index.html">← トップへ戻る</a></p>
-    <h1>抽選カレンダー</h1>
-    <p>開始日、締切日、結果発表日を時系列で並べています。</p>
-    <div id="calendarList" class="feed-list"></div>
-  </main>
-  <script src="script.js"></script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN/</loc></url>
+  <url><loc>https://YOUR-DOMAIN/calendar.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN/resale.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN/articles.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN/article-new-release.html</loc></url>
+</urlset>
