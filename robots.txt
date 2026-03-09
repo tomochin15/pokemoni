@@ -1,0 +1,22 @@
+# Pokémon Card Monitor Pro
+
+ポケモンカードの抽選販売、Amazon招待リクエスト、楽天 / Yahooの予約・再販、X情報をまとめる静的サイトです。
+
+## 追加した機能
+- 抽選カレンダー (`calendar.html`)
+- 新着情報の自動上位表示
+- 抽選開始 / 締切前アラート
+- Amazon / 楽天 / Yahoo の収益導線
+- Discover向けの `robots.txt` / `sitemap.xml` / `site.webmanifest`
+- SEO記事自動生成テンプレ (`article_generator.py`)
+- X自動投稿の雛形 (`x_poster.py`)
+
+## 自分で変更する場所
+- `script.js` の `AMAZON_TAG`
+- `script.js` の `RAKUTEN_AFFILIATE_URL`
+- `script.js` の `YAHOO_AFFILIATE_URL`
+- `robots.txt` と `sitemap.xml` の `YOUR-DOMAIN`
+- `data.json` の実データ
+
+## 公開
+GitHub Pages か Cloudflare Pages にアップロードしてください。
