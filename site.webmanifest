@@ -1,9 +1,0 @@
-{
-  "name": "ポケモンカード速報",
-  "short_name": "ポケカ速報",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#f5f7fb",
-  "theme_color": "#155eef",
-  "icons": []
-}
